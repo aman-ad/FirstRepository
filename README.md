@@ -17,3 +17,11 @@ B(){
  System.out.println("inside class B" ):
  }
 }
+
+
+class C(){
+C(){
+ System.out.println("inside class C");
+ }
+}
+
